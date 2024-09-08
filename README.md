@@ -5,8 +5,8 @@ NOTICE
 
 This repository contains code that is inspired by the article titled "A unified drug–target interaction prediction
 framework based on knowledge graph and
-recommendation system" by [Qing Ye 1,2,3,6, Chang-Yu Hsieh4,6, Ziyi Yang4, Yu Kang 1, Jiming Chen 2, Dongsheng Cao 5,
-Shibo He 2 & Tingjun Hou 1,3].
+recommendation system" by Qing Ye وChang-Yu Hsieh, Ziyi Yang4, Yu Kang, Jiming Chen, Dongsheng Cao,
+Shibo He & Tingjun Hou.
 The article is available at the following link:
 
 
